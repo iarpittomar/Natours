@@ -16,11 +16,7 @@
         color: transparent;
         display: inline-block;
     }
-
-    &__text{
-
-    }
-
+    
     &:hover{
         transform: scale(1.03) translateY(-1.5rem);
         box-shadow: 0 2.5rem 4rem rgba($color-black, .15);
